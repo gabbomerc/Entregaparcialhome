@@ -63,7 +63,7 @@
 }
 @media only screen and (max-width: 991px) {
     .mica {
-        background: url(/assets/images/hero/hero1mobile.png);
+        background: url('../images/hero/hero1mobile.png');
         background-size: cover !important;
         background-position: 60% 25%;
     }
@@ -71,7 +71,7 @@
 
 @media only screen and (max-width: 991px) {
     .hero-section {
-        background: url(/assets/images/hero/heromobile.png);
+        background: url('../images/hero/heromobile.png');
         background-size: cover !important;
         background-position: 60% 25%;
     }
