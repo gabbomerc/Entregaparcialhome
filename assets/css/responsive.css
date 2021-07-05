@@ -288,7 +288,7 @@
 
 @media only screen and (max-width: 991px) {
     .backgroundmarketing {
-        background: url(/assets/images/banner/bannermobile.png);
+        background: url('../images/banner/bannermobile.png)';
         background-size: cover !important;
         background-position: 60% 25%;
     }
