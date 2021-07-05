@@ -46,7 +46,7 @@
 
 .backgroundmarketing {
     
-    background-image: url('/assets/images/banner/backrgound.png');
+    background-image: url('../images/banner/backrgound.png');
     background-position: center;
     background-repeat: no-repeat;
     width: 100%;    
